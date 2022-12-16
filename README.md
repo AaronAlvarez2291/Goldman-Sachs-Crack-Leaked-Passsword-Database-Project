@@ -106,7 +106,7 @@ heroanhart:7c6a180b36896a0a8c02787eeafb0e4c - password1
 
 edi_tesla89:6c569aabbf7775ef8fc570e228c16b98 - password!
 
-liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
+liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxswPassword cracking explained (techniques described in 2013 still haven’t changed)
 
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 
@@ -114,3 +114,12 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 
 <h2>Resources</h2>
 
+<a href="https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords">Password cracking explained (techniques described in 2013 still haven’t changed)</a>
+
+<a href="https://en.wikipedia.org/wiki/Salt_(cryptography)">Password Salting</a>
+
+<a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function">Hash Functions</a>
+
+<a href="https://en.wikipedia.org/wiki/Password_cracking#Software">Password Cracking Tools</a>
+
+<a href="https://howsecureismypassword.net/">Password Strength Checker</a>
