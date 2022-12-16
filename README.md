@@ -44,7 +44,7 @@ You must determine the following:
 
 <h2>Observations</h2>
 
-Security Algorithms used: 
+<b>Security Algorithms used:</b>
 
 experthead:e10adc3949ba59abbe56e057f20f883e – MD5
 
@@ -83,9 +83,8 @@ moodie:8d763385e0476ae208f21bc63956f748 - MD5
 nabox:defebde7b6ab6f24d5824682a16c3ae4 - MD5
 
 bandalls:bdda5f03128bcbdfa78d8934529048cf - MD5
-<br>
-<br>
-Cracked Passwords:
+
+<b>Cracked Passwords:</b>
 
 experthead:e10adc3949ba59abbe56e057f20f883e - 123456
 
