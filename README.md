@@ -28,12 +28,14 @@ Draft an email/memo briefly explaining your findings in relation to controls use
 
 You must determine the following:
 
-What type of hashing algorithm was used to protect passwords?
+<ul>
+  <li>What type of hashing algorithm was used to protect passwords?</li>
 
-What level of protection does the mechanism offer for passwords?
+  <li>What level of protection does the mechanism offer for passwords?</li>
 
-What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
+  <li>What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?</li>
 
-What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
+  <li>What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?</li>
 
-What would you change in the password policy to make breaking the passwords harder? 
+  <li>What would you change in the password policy to make breaking the passwords harder?<li>
+</ul>
