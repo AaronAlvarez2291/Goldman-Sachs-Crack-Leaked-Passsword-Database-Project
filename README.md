@@ -10,13 +10,21 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
 
-1.Review the links provided in the resources section below to gain a background understanding of password cracking
+Review the links provided in the resources section below to gain a background understanding of password cracking
 
-2.Try to crack the passwords provided in the 'password dump' file below using available tools
+Try to crack the passwords provided in the 'password dump' file below using available tools
 
-3.Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
+Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
 
-4.Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts.
+Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts.
+
+<ul>
+  <li>Review the links provided in the resources section below to gain a background understanding of password cracking</li>
+  <li>Try to crack the passwords provided in the 'password dump' file below using available tools
+</li>
+  <li>Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)</li>
+  <li>Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts.</li>
+</ul>
 
 You must determine the following:
 
