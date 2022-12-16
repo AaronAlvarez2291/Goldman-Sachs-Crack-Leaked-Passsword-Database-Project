@@ -39,3 +39,9 @@ You must determine the following:
 
   <li>What would you change in the password policy to make breaking the passwords harder?</li>
 </ul>
+
+<h2>Project Report</h2>
+
+<h2>Observations</h2>
+
+<h2>Resources</h2>
