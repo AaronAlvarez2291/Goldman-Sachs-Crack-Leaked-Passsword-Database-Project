@@ -37,5 +37,5 @@ You must determine the following:
 
   <li>What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?</li>
 
-  <li>What would you change in the password policy to make breaking the passwords harder?<li>
+  <li>What would you change in the password policy to make breaking the passwords harder?</li>
 </ul>
