@@ -34,7 +34,7 @@ You must determine the following:
 
 <h2>Project Report</h2>
 
-After the conducted analysis we determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. We also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I created this document which proposes the following uplifts to increase the overall level of password protection and help align our password policy with industry best practices.
+After the conducted analysis we determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. We also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I created and sent this document to Goldman Sachs which proposes the following uplifts to increase the overall level of password protection and help align their password policy with industry best practices.
 
 <b>Dear Goldman Sachs
 
