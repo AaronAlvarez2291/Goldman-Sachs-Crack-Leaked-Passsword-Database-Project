@@ -52,17 +52,21 @@ After the conducted analysis it was determined that your organization uses the M
 
 After cracking the passwords, we found that the organizations password policy has a minimum length of 6 characters for passwords and that there is no specific requirement for password creation. Users can use any combination of words and letters to create a password. As a result, I think the following controls could be implemented to increase the overall level of password protection and make cracking much harder in case of another database leak:
 
-1.	increase the password length this will increase the computational effort required to crack the passwords.
-2.	allow for all character types in a password and require at least one non-alphabetic character and usage of ASCII characters because every additional character increases the time it takes to crack a password exponentially and by adding numbers, symbols, upper and lowercase letters to the password it makes it very difficult to brute force. Thus, having a long, complex password is more secure.
-3.	Avoid common words and character combinations in your password.
-4.	regularly check current passwords to ensure that they have not been broken.
+<ul>
+<li>increase the password length this will increase the computational effort required to crack the passwords.</li>
+<li>allow for all character types in a password and require at least one non-alphabetic character and usage of ASCII characters because every additional character increases the time it takes to crack a password exponentially and by adding numbers, symbols, upper and lowercase letters to the password it makes it very difficult to brute force. Thus, having a long, complex password is more secure.</li>
+<li>Avoid common words and character combinations in your password.</li>
+<li>regularly check current passwords to ensure that they have not been broken.</li>
+  </ul>
 
 Seeing that your current password policy is not aligned with the industries best practices things I would suggest improving your password policy are:
 
-1.	Using a better hashing algorithm that provides a higher level of protection.
-2.	implement salting to prevent usage of rainbow tables and implement peppering to make it harder to crack.
-3.	Having longer and stronger passwords which increases the time it takes to crack a password exponentially.
-4.	Train your users to follow these policies.
+<ul>
+<li>Using a better hashing algorithm that provides a higher level of protection.</li>
+<li>implement salting to prevent usage of rainbow tables and implement peppering to make it harder to crack.</li>
+<li>Having longer and stronger passwords which increases the time it takes to crack a password exponentially.</li>
+<li>Train your users to follow these policies.</li>
+</ul>
 
 Kind Regards,
 Aaron Alvarez
