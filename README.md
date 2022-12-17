@@ -66,7 +66,7 @@ Aaron Alvarez</b>
 
 <h2>Observations</h2>
 
-In this section you can see what we found out when we ran the hashes through hashcat and crackworkstation. From this we could also see how we broke the hashes and got back the passwords. Lastly we can see how easily the MD5 algorithm can be broken.
+In this section you can see what we observed when we ran the hashes through hashcat and crackworkstation. We could also see the output we got when we broke the hashes and finally we can see how easily the MD5 algorithm can be broken today using tools such as hashcat.
 
 <b>Security Algorithms used:</b>
 
