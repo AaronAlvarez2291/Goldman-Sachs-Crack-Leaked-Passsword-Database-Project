@@ -44,7 +44,7 @@ You must determine the following:
 
 After the conducted analysis we determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. We also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I created this document which proposes the following uplifts to increase the overall level of password protection and help align our password policy with industry best practices.
 
-Dear Goldman Sachs
+<b>Dear Goldman Sachs
 
 I am writing this email regarding the leaked password database to let you know about my findings and to let you know about my suggestions to improve your password policy and help keep your passwords secure in case of another breach.
 
@@ -70,7 +70,7 @@ Seeing that your current password policy is not aligned with the industries best
 
 Kind Regards,
 
-Aaron Alvarez
+Aaron Alvarez</b>
 
 <h2>Observations</h2>
 
