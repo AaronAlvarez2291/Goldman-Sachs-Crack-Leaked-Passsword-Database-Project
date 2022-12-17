@@ -51,11 +51,11 @@ After cracking the passwords, we found that the organizations password policy ha
 <li>regularly check current passwords to ensure that they have not been broken.</li>
   </ul>
 
-Seeing that your current password policy is not aligned with the industries best practices things I would suggest improving your password policy are:
+Seeing that your current password policy is not aligned with the industries best practices things I would suggest to improve your password policy are:
 
 <ul>
 <li>Using a better hashing algorithm that provides a higher level of protection.</li>
-<li>implement salting to prevent usage of rainbow tables and implement peppering to make it harder to crack.</li>
+<li>implementing salting and peppering to prevent usage of rainbow tables and make it harder to crack.</li>
 <li>Having longer and stronger passwords which increases the time it takes to crack a password exponentially.</li>
 <li>Train your users to follow these policies.</li>
 </ul>
@@ -65,6 +65,8 @@ Kind Regards,
 Aaron Alvarez</b>
 
 <h2>Observations</h2>
+
+In this section you can see what we found out when we ran the hashes through hashcat and crackworkstation. From this we could also see how we broke the hashes and got back the passwords. Lastly we can see how easily the MD5 algorithm can be broken.
 
 <b>Security Algorithms used:</b>
 
