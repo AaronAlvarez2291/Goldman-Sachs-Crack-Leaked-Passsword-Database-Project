@@ -40,6 +40,16 @@ You must determine the following:
   <li>What would you change in the password policy to make breaking the passwords harder?</li>
 </ul>
 
+After the conducted analysis we determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. We also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I propose the following uplifts to increase the overall level of password protection.
+
+<ul>
+  <li>Using a better hashing algorithm that provides a higher level of protection.</li>
+  <li>implement salting to prevent usage of rainbow tables and implement peppering to make it harder to crack.</li>
+  <li>increase the password length this will increase the computational effort required to crack the passwords.</li>
+  <li>Include special characters, lower and uppercase letters and numbers in your passwords </li>
+  <li>Avoid common words and character combinations in your password.</li>
+  <li>educating users on the importance of strong passwords and  how to keep them safe</li>
+
 <h2>Project Report</h2>
 
 <h2>Observations</h2>
