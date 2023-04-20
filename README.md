@@ -34,7 +34,7 @@ You must determine the following:
 
 <h2>Project Report</h2>
 
-After the conducted analysis we determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. We also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I created and sent this document to Goldman Sachs which proposes the following uplifts to increase the overall level of password protection and help align their password policy with industry best practices.
+After the conducted analysis I determined that the organization is using an outdated password algorithm which offers very little protection in the event of a password database leak. I also determined that the current password policy the organization is using is not aligned with industry best practices. As a result of the analysis I created and sent this document to Goldman Sachs which proposes the following uplifts to increase the overall level of password protection and help align their password policy with industry best practices.
 
 <b>Dear Goldman Sachs
 
@@ -66,7 +66,7 @@ Aaron Alvarez</b>
 
 <h2>Observations</h2>
 
-In this section you can see what we observed when we ran the hashes through hashcat and crackworkstation. We could also see the output we got when we broke the hashes and finally we can see how easily the MD5 algorithm can be broken today using tools such as hashcat.
+In this section you can see what I observed when we ran the hashes through hashcat and crackworkstation. You could also see the output I got when we broke the hashes and finally you can see how easily the MD5 algorithm can be broken today using tools such as hashcat.
 
 <b>Security Algorithms used:</b>
 
